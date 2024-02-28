@@ -1,0 +1,1 @@
+console.log(function(e,o){const n=[],t=[];for(const t of o)e.hasOwnProperty(t)&&n.push({key:t,value:e[t]});const l=Object.keys(e).sort().filter((e=>!o.includes(e)));for(const o of l)t.push({key:o,value:e[o]});return[...n,...t]}({name:"мечник",health:10,level:2,attack:80,defence:40},["name","level"]));

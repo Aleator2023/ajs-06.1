@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1709124252579" clover="3.2.0">
+  <project timestamp="1709124252579" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2" elements="17" coveredelements="16" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+    <file name="index.js" path="C:\Users\User\Desktop\обучение джаваскрипт\продвинутый ДС\ajs-06.1\src\index.js">
+      <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="8" count="4" type="stmt"/>
+      <line num="13" count="10" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="16" count="6" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
